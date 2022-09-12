@@ -1,4 +1,4 @@
-# oop-exercises-c-
+# oop-exercises-c sharp
 OOP PART 1 
 
 These exercises from OOP C# course in my school
